@@ -1,7 +1,10 @@
 # LOG
 ## Manual entries don't expect to much.
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/RAM_OPS/) 
+
+#### 231801ZNOV2023
+Convering to new mission file.  
 
 #### 191918ZNOV2019
 Change scenario timeline, remove mod requiring units.  
