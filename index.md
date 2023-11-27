@@ -17,6 +17,11 @@
 ## Mission File
 
 ####  [RAMAT_C5 LOCAL TIME xxxx](/Docs/RAMAT_C005_RELEASE.miz)
+---
+## CF File
+
+####  [CF FILE C5 RELEASE](/Docs/CF/Ramat_CF_C005_RELEASE.cf)
+
 
 
 
