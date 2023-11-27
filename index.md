@@ -11,7 +11,7 @@
 
 ---
 ## ADMIN
-####  [~~RADIO PRESETS~~](/Docs/radiopresets.md) | [~~DIRECTING AIDS~~](/Docs/Directing/directing.md)  
+####  [RADIO PRESETS](/Docs/radiopresets.md) | [~~DIRECTING AIDS~~](/Docs/Directing/directing.md)  
   
 ---
 ## Mission File

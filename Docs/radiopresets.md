@@ -4,13 +4,9 @@ Some A/C are bound to have incorrect presets sooner or later, please notify if s
 
 ## [OP FREQ](http://132virtualwing.org/index.php/page/freqlist)
 
-## [HORNET PRESETS](/Radios/hornet_presets.png)
+## [MDC BUILDER](https://mdc.132virtualwing.org/)
 
-## [A-10C PRESETS](/Radios/A10PRESETS.PNG)
-
-## [KA-50 PRESETS](/Radios/KA50_PRESETS.PNG)
-
-## [MI-8 PRESETS](/Radios/MI8_PRESETS.PNG)
+Use the OPAR mission set for matching presets.
 
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/RAM_OPS/) 
