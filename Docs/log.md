@@ -77,4 +77,4 @@ Added list of nav. points in clear text, also to aid quick copy paste planning.
 #### 031630ZJUN2019
 Added clear text translation of op-freq's allowing for easier copy paste, into scratch-pad mod. For rapid flight planning.
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/RAM_OPS/) 
