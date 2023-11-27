@@ -16,7 +16,7 @@
 ---
 ## Mission File
 
-####  [NSST_C20 LOCAL TIME 0720](/Docs/NSST_C20_RELEASE_0720.miz)
+####  [RAMAT_C5 LOCAL TIME xxxx](/Docs/RAMAT_C005_RELEASE.miz)
 
 
 
