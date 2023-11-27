@@ -22,7 +22,7 @@
 
 ---
 ## RAM OPS MSN INFO
-####  [~~BACKGROUND~~](/Docs/background.md)  
+####  [BACKGROUND](/Docs/background.md)  
 ####  [~~HOWTO~~](/Docs/howto.md)  
 ####  [~~LOG~~](/Docs/log.md)  
 ---

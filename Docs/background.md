@@ -6,12 +6,12 @@ Setting up an randomized environment for DCS world simulation op's that does not
 
 ## THANKS TO
   
-  Neck and others for work on OPUF which is used here.  
+  Neck and others for work on OPAR which is used here.  
   Flightcontrol and moose people for the moose parts.  
-  Papi for FLIP.
+  MA for SID and STAR, and GND Charts.
   Pikes for getting poked with questions, and for stealing his moose work.  
   Buddys over at 132nd Virtual Wing for support.  
-  Dude who made Weather Mark Script.  
+  
 
 
-#### [BACK TO INDEX](https://daviddcs.github.io/nsst/) 
+#### [BACK TO INDEX](https://daviddcs.github.io/RAM_OPS/) 
